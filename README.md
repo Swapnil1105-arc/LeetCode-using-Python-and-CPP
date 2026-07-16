@@ -6,9 +6,11 @@
 <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" />
 <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" />
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-![Last Commit](https://img.shields.io/github/last-commit/Swapnil1105-arc/LeetCode_using-%5FpythonAndcpp?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/Swapnil1105-arc/LeetCode_using-%5FpythonAndcpp?style=for-the-badge)
-![License](https://img.shields.io/github/license/Swapnil1105-arc/LeetCode_using-%5FpythonAndcpp?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Swapnil1105-arc/LeetCode-Python-CPP?style=for-the-badge)
+
+![Repo Size](https://img.shields.io/github/repo-size/Swapnil1105-arc/LeetCode-Python-CPP?style=for-the-badge)
+
+![License](https://img.shields.io/github/license/Swapnil1105-arc/LeetCode-Python-CPP?style=for-the-badge)
 
 ### 💻 My personal collection of LeetCode solutions in **Python** and **C++**.
 
