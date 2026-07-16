@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 <img src="https://img.shields.io/github/last-commit/Swapnil1105-arc/LeetCode_using-_pythonAndcpp"/>
 <img src="https://img.shields.io/github/repo-size/Swapnil1105-arc/LeetCode_using-_pythonAndcpp"/>
-<img src="https://img.shields.io/github/license/Swapnil1105-arc/LeetCode_using-_pythonAndcpp"/>
 
 
 ### 💻 My personal collection of LeetCode solutions in **Python** and **C++**.
